@@ -1,0 +1,41 @@
+.font-size{
+    font-size: 20px;
+}
+.color{
+    color: aqua;
+}
+.letter-spac{
+    letter-spacing: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.title{
+    border-bottom: 4px solid rgb(253, 4, 54);
+    width: 150px;
+    margin: auto;
+}
+.bg{
+    background: rgb(224, 224, 224);
+    justify-content: center;
+}
+.form{
+    margin-top: 30px;
+    padding: 50px 0px;
+}
+span{
+    font-size: 20px;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+footer{
+    color: white;
+   
+    padding: 8px 0px 1px 0px;
+    font-size: 16px;
+}
+.foot{
+    text-align: center;
+    align-items: center;
+     background: #000;
+}
